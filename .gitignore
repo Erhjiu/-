@@ -1,0 +1,11 @@
+# Local editor settings
+.vscode/
+
+# Build output
+build/
+*.o
+*.out
+*.exe
+/exp1/and
+/exp1/record
+/exp2/exp2
